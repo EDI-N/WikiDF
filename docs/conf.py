@@ -63,7 +63,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Docs'
-copyright = '2018-{}, The GoGetData team'.format(datetime.datetime.now().year)
+copyright = '2021, EDI-N'
 author = 'EDI-N team'
 
 # The version info for the project you're documenting, acts as replacement for

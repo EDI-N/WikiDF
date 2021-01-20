@@ -14,6 +14,13 @@ dfsdfdfsdfsdfs
 
 sdsdfsdfsdfsfsdf
 
+:pdfembed:`src:../_static/gs1.pdf, height:450, width:100%, align:middle`
+
+sdfsfsdfsdfsdf
+
+
+sdsdfsdfsdfsfsdf
+
 .. raw:: html
 
     <embed>
