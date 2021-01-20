@@ -14,6 +14,10 @@ dfsdfdfsdfsdfs
 
 sdsdfsdfsdfsfsdf
 
-:pdfembed:`src:../_static/gs1.pdf, height:450, width:100%, align:middle`
+.. raw:: html
+
+    <embed>
+      <iframe align="middle" frameborder="1" height="907px" id="ID" scrolling="auto" src="_static/gs1.pdf#zoom=PageFit" style="border:1px solid #666CCC" title="PDF" width="99.5%"></iframe>
+    </embed>
 
 sdfsfsdfsdfsdf
