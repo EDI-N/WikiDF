@@ -2,5 +2,5 @@
 **Інструкція обміну документами з GS1 через платформу DOCflow**
 ################################################################################
 
-:pdfembed:`src:_static/Інструкція_GS1_UA_final1_20_01_2021.pdf, height:1100, width:800, align:middle`
+:pdfembed:`src:_static/Інструкція_GS1_UA_final1_20_01_2021.pdf, height:800, width:1100, align:middle`
 
