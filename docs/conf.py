@@ -34,6 +34,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.contentui',
     'notfound.extension',
+    'sphinxcontrib.pdfembed',
 ]
 
 # for 404 page
@@ -62,7 +63,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Docs'
-copyright = '2020, EDI-N'
+copyright = '2021, EDI-N'
 author = 'EDI-N'
 
 # The version info for the project you're documenting, acts as replacement for
