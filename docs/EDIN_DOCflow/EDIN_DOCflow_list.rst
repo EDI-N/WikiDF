@@ -12,5 +12,6 @@
   edin_docflow/instruktsia-korystuvacha-obminy-paketami
   edin_docflow/instruktsia-po-shifrovaniu
   edin_docflow/instruktsia-structurovanyi-document
+  edin_docflow/instruktsia_GS1
   
   
