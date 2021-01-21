@@ -34,7 +34,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.contentui',
     'notfound.extension',
-    'sphinxcontrib.pdfembed',
 ]
 
 # for 404 page
