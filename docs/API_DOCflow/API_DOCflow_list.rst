@@ -56,6 +56,7 @@
    Methods/PostPackages
    Methods/PostPackageSend
    Methods/PostPackageStatus
+   Methods/MarkAsReadFromApi
    
 .. toctree::
    :caption: Сценарій документообігу
