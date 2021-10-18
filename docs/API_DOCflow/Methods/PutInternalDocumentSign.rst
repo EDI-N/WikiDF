@@ -29,7 +29,7 @@
 
 .. csv-table:: 
   :file: for_csv/SignBody.csv
-  :widths:  1, 9, 12, 41
+  :widths:  1, 9, 41
   :header-rows: 1
   :stub-columns: 0
 
