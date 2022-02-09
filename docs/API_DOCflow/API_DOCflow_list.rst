@@ -38,6 +38,7 @@
    Methods/GetInternalDocumentStructure
    Methods/GetInternalDocuments
    Methods/CreateInternalDocument
+   Methods/SendInternalDocument
    
 .. toctree::
    :caption: Комплекти документів
